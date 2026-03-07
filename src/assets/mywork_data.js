@@ -12,6 +12,7 @@ const mywork_data= [
     w_no: 2,
     w_name: "Portfolio Website",
     w_img: project2_img,
+    w_link: "https://portfolio-dusky-nine-20.vercel.app/",
   },
   {
     w_no: 3,
