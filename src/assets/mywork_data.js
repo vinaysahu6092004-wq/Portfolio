@@ -22,7 +22,7 @@ const mywork_data= [
     w_link: "https://interview-coding-platform-frontend.vercel.app/",
   },{
     w_no: 4,
-    w_name: "Enviroment Monitoring System(ESP32 sense data from the sensor like temperature and Air-Quality and deliver real-time data through MQTT broker)",
+    w_name: "Enviroment Monitoring System",
     w_img : project4_img,
     w_link:"https://esp-32-iot-health-monitoring.vercel.app/"
   }
